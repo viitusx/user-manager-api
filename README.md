@@ -19,7 +19,7 @@ Este projeto demonstra conceitos fundamentais de backend, como criação de rota
 - **GET /usuarios**  
   Lista todos os usuários cadastrados.
 
-- **GET /usuarios/:id**  
+- **GET /usuarios/:id** 
   Busca um usuário específico pelo ID.
 
 - **POST /usuarios**  
