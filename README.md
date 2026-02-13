@@ -30,7 +30,7 @@ Este projeto demonstra conceitos fundamentais de backend, como criação de rota
 ## 🚀 Como Executar o Projeto
 
 1️⃣ Clone o repositório  
-git clone https://github.com/viitusx/gerenciador-de-usuarios
+git clone https://github.com/viitusx/user-manager-api
 
 2️⃣ Acesse a pasta do projeto  
 cd gerenciador-de-usuarios
